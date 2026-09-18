@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista01/RespostaLista01.csproj": {}
+    "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/RespostaLista01/RespostaLista01.csproj": {}
   },
   "projects": {
-    "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista01/RespostaLista01.csproj": {
+    "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/RespostaLista01/RespostaLista01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista01/RespostaLista01.csproj",
+        "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/RespostaLista01/RespostaLista01.csproj",
         "projectName": "RespostaLista01",
-        "projectPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista01/RespostaLista01.csproj",
+        "projectPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/RespostaLista01/RespostaLista01.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista01/obj/",
+        "outputPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/RespostaLista01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

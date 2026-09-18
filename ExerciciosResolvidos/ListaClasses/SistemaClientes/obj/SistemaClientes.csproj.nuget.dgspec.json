@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/SistemaClientes.csproj": {}
+    "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/SistemaClientes/SistemaClientes.csproj": {}
   },
   "projects": {
-    "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/SistemaClientes.csproj": {
+    "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/SistemaClientes/SistemaClientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/SistemaClientes.csproj",
+        "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/SistemaClientes/SistemaClientes.csproj",
         "projectName": "SistemaClientes",
-        "projectPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/SistemaClientes.csproj",
+        "projectPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/SistemaClientes/SistemaClientes.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/",
+        "outputPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

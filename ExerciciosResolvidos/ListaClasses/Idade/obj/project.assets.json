@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/Idade.csproj",
+      "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/Idade/Idade.csproj",
       "projectName": "Idade",
-      "projectPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/Idade.csproj",
+      "projectPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/Idade/Idade.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/",
+      "outputPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/Idade/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

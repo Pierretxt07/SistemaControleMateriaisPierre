@@ -294,11 +294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/SistemaControleMateriaisWeb/SistemaControleMateriaisWeb.csproj",
+      "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/SistemaControleMateriaisWeb/SistemaControleMateriaisWeb.csproj",
       "projectName": "SistemaControleMateriaisWeb",
-      "projectPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/SistemaControleMateriaisWeb/SistemaControleMateriaisWeb.csproj",
+      "projectPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/SistemaControleMateriaisWeb/SistemaControleMateriaisWeb.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/SistemaControleMateriaisWeb/obj/",
+      "outputPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/SistemaControleMateriaisWeb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

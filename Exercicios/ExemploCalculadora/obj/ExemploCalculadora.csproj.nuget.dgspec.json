@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/ExemploCalculadora.csproj": {}
+    "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploCalculadora/ExemploCalculadora.csproj": {}
   },
   "projects": {
-    "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/ExemploCalculadora.csproj": {
+    "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploCalculadora/ExemploCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/ExemploCalculadora.csproj",
+        "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploCalculadora/ExemploCalculadora.csproj",
         "projectName": "ExemploCalculadora",
-        "projectPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/ExemploCalculadora.csproj",
+        "projectPath": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploCalculadora/ExemploCalculadora.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/",
+        "outputPath": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploCalculadora/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

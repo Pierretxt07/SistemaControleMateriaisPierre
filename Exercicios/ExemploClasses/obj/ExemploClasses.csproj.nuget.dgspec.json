@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploClasses/ExemploClasses.csproj": {}
+    "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploClasses/ExemploClasses.csproj": {}
   },
   "projects": {
-    "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploClasses/ExemploClasses.csproj": {
+    "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploClasses/ExemploClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploClasses/ExemploClasses.csproj",
+        "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploClasses/ExemploClasses.csproj",
         "projectName": "ExemploClasses",
-        "projectPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploClasses/ExemploClasses.csproj",
+        "projectPath": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploClasses/ExemploClasses.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploClasses/obj/",
+        "outputPath": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploClasses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

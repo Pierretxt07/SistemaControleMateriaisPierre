@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/ControleBanco.csproj",
+      "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/ControleBanco/ControleBanco.csproj",
       "projectName": "ControleBanco",
-      "projectPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/ControleBanco.csproj",
+      "projectPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/ControleBanco/ControleBanco.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/",
+      "outputPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ExemploSe/ExemploSe.csproj",
+      "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ExemploSe/ExemploSe.csproj",
       "projectName": "ExemploSe",
-      "projectPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ExemploSe/ExemploSe.csproj",
+      "projectPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ExemploSe/ExemploSe.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ExemploSe/obj/",
+      "outputPath": "/workspaces/SistemaControleMateriaisPierre/ExerciciosResolvidos/ExemploSe/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

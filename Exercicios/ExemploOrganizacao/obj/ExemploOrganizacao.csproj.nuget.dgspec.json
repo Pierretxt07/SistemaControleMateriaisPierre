@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploOrganizacao/ExemploOrganizacao.csproj": {}
+    "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploOrganizacao/ExemploOrganizacao.csproj": {}
   },
   "projects": {
-    "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploOrganizacao/ExemploOrganizacao.csproj": {
+    "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploOrganizacao/ExemploOrganizacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploOrganizacao/ExemploOrganizacao.csproj",
+        "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploOrganizacao/ExemploOrganizacao.csproj",
         "projectName": "ExemploOrganizacao",
-        "projectPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploOrganizacao/ExemploOrganizacao.csproj",
+        "projectPath": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploOrganizacao/ExemploOrganizacao.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploOrganizacao/obj/",
+        "outputPath": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploOrganizacao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

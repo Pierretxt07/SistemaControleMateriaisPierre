@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/ExemploObjeto.csproj": {}
+    "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploObjeto/ExemploObjeto.csproj": {}
   },
   "projects": {
-    "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/ExemploObjeto.csproj": {
+    "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploObjeto/ExemploObjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/ExemploObjeto.csproj",
+        "projectUniqueName": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploObjeto/ExemploObjeto.csproj",
         "projectName": "ExemploObjeto",
-        "projectPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/ExemploObjeto.csproj",
+        "projectPath": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploObjeto/ExemploObjeto.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/",
+        "outputPath": "/workspaces/SistemaControleMateriaisPierre/Exercicios/ExemploObjeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
